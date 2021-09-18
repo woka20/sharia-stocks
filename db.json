@@ -5,7 +5,7 @@
       "codeName": "AALI",
       "companyName": "Astra Agro Lestari Tbk.",
       "syariah": "true",
-      "logo": "https://id.wikipedia.org/wiki/Berkas:Astra-Agro.gif",
+      "logo": "https://id.wikipedia.org/wiki/Berkas:Astra-Agro.gif"
       
     },
      {
@@ -13,7 +13,7 @@
       "codeName": "ACES",
       "companyName": "Ace Hardware Indonesia Tbk.,
       "syariah": "true",
-      "logo": "https://id.wikipedia.org/wiki/Berkas:Ace_Hardware_Logo.svg",
+      "logo": "https://id.wikipedia.org/wiki/Berkas:Ace_Hardware_Logo.svg"
       
     },
      {
@@ -21,7 +21,7 @@
       "codeName": "ACST",
       "companyName": "Acset Indonusa Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -29,7 +29,7 @@
       "codeName": "ADES",
       "companyName": "Akasha Wira International Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -37,7 +37,7 @@
       "codeName": "ADHI",
       "companyName": "Adhi Karya (Persero) Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -45,7 +45,7 @@
       "codeName": "ADMG",
       "companyName": "Polychem Indonesia Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
        {
@@ -53,7 +53,7 @@
       "codeName": "ADRO",
       "companyName": "Adaro Energy Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -61,7 +61,7 @@
       "codeName": "AGAR",
       "companyName": "Asia Sejahtera Mina Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -69,7 +69,7 @@
       "codeName": "AGII",
       "companyName": "Aneka Gas Industri Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -77,7 +77,7 @@
       "codeName": "AIMS",
       "companyName": "Akbar Indo Makmur Stimec Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -85,7 +85,7 @@
       "codeName": "AKKU",
       "companyName": "Anugerah Kagum Karya Utama Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
     },
       {
@@ -93,9 +93,9 @@
       "codeName": "AKPI",
       "companyName": "Argha Karya Prima Industry Tbk.",
       "syariah": "true",
-      "logo": "None",
+      "logo": "None"
       
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
