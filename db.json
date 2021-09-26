@@ -644,7 +644,429 @@
       "companyName": "Diamond Citra Propertindo Tbk.",
       "syariah": "true",
       "logo": "None"
-    }
+    },
+    {
+      "id": 91,
+      "codeName": "DAYA",
+      "companyName": "Duta Intidaya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 92,
+      "codeName": "DEWA",
+      "companyName": "Darma Henwa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 93,
+      "codeName": "DGIK",
+      "companyName": "Nusa Konstruksi Enjiniring Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 94,
+      "codeName": "DGNS",
+      "companyName": "Diagnos Laboratorium Utama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 95,
+      "codeName": "DIGI",
+      "companyName": "Arkadia Digital Media Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 96,
+      "codeName": "DILD",
+      "companyName": "Intiland Development Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 97,
+      "codeName": "DIVA",
+      "companyName": "Distribusi Voucher Nusantara Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 98,
+      "codeName": "DKFT",
+      "companyName": "Central Omega Resources Tbk",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 99,
+      "codeName": "DMAS",
+      "companyName": "Puradelta Lestari Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 100,
+      "codeName": "DMMX",
+      "companyName": "Digital Mediatama Maxima Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 101,
+      "codeName": "DMND",
+      "companyName": "Diamond Food Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 102,
+      "codeName": "DPNS",
+      "companyName": "Duta Pertiwi Nusantara Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 103,
+      "codeName": "DSFI",
+      "companyName": "Dharma Samudera Fishing Industries Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 104,
+      "codeName": "DSSA",
+      "companyName": "Dian Swastatika Sentosa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 105,
+      "codeName": "DUTI",
+      "companyName": "Duta Pertiwi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 106,
+      "codeName": "DVLA",
+      "companyName": "Darya-Varia Laboratoria Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 107,
+      "codeName": "DWGL",
+      "companyName": "Dwi Guna Laksana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 108,
+      "codeName": "DYAN",
+      "companyName": "Dyandra Media International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 109,
+      "codeName": "EAST",
+      "companyName": "Eastparc Hotel Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 110,
+      "codeName": "ECII",
+      "companyName": "Electronic City Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 111,
+      "codeName": "EDGE",
+      "companyName": "Indointernet Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 112,
+      "codeName": "EKAD",
+      "companyName": "Ekadharma International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 113,
+      "codeName": "ELSA",
+      "companyName": "Elnusa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 114,
+      "codeName": "EMDE",
+      "companyName": "Megapolitan Developments Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 115,
+      "codeName": "EMTK",
+      "companyName": "Elang Mahkota Teknologi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 116,
+      "codeName": "ENRG",
+      "companyName": "Energi Mega Persada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 117,
+      "codeName": "ENZO",
+      "companyName": "Morenzo Abadi Perkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 118,
+      "codeName": "EPAC",
+      "companyName": "Megalestari Epack Sentosaraya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 119,
+      "codeName": "EPMT",
+      "companyName": "Enseval Putera Megatrading Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 120,
+      "codeName": "ERAA",
+      "companyName": "Erajaya Swasembada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 121,
+      "codeName": "ESIP",
+      "companyName": "Sinergi Inti Plastindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 122,
+      "codeName": "EXCL",
+      "companyName": "XL Axiata Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 123,
+      "codeName": "FAST",
+      "companyName": "Fast Food Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 124,
+      "codeName": "FILM",
+      "companyName": "MD Pictures Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 125,
+      "codeName": "FIRE",
+      "companyName": "Alfa Energi Investama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 126,
+      "codeName": "FISH",
+      "companyName": "FKS Multi Agro Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 127,
+      "codeName": "FITT",
+      "companyName": "Hotel Fitra International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 128,
+      "codeName": "FMII",
+      "companyName": "Fortune Mate Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 129,
+      "codeName": "FOOD",
+      "companyName": "Sentra Food Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 130,
+      "codeName": "FPNI",
+      "companyName": "Lotte Chemical Titan Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 131,
+      "codeName": "GAMA",
+      "companyName": "Aksara Global Development Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 132,
+      "codeName": "GDST",
+      "companyName": "Gunawan Dianjaya Steel Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 133,
+      "codeName": "GDYR",
+      "companyName": "Goodyear Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 134,
+      "codeName": "GEMA",
+      "companyName": "Gema Grahasarana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 135,
+      "codeName": "GEMS",
+      "companyName": "Golden Energy Mines Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 136,
+      "codeName": "GGRP",
+      "companyName": "Gunung Raja Paksi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 137,
+      "codeName": "GHON",
+      "companyName": "Gihon Telekomunikasi Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 138,
+      "codeName": "GJTL",
+      "companyName": "Gajah Tunggal Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 139,
+      "codeName": "GLVA",
+      "companyName": "Galva Technologies Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 140,
+      "codeName": "GMTD",
+      "companyName": "Gowa Makassar Tourism Development Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+  
+    {
+      "id": 141,
+      "codeName": "GOLD",
+      "companyName": "Visi Telekomunikasi Infrastruktur Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 142,
+      "codeName": "GOOD",
+      "companyName": "Garudafood Putra Putri Jaya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 143,
+      "codeName": "GPRA",
+      "companyName": "Perdana Gapuraprima Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 144,
+      "codeName": "GPSO",
+      "companyName": "Geoprima Solusi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 145,
+      "codeName": "GTSI",
+      "companyName": "GTS Internasional Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 146,
+      "codeName": "GZCO",
+      "companyName": "Gozco Plantations Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 147,
+      "codeName": "HADE",
+      "companyName": "Himalaya Energi Perkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 148,
+      "codeName": "HAIS",
+      "companyName": "Hasnur Internasional Shipping Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 149,
+      "codeName": "HDIT",
+      "companyName": "Hensel Davest Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 150,
+      "codeName": "HEAL",
+      "companyName": "Medikaloka Hermina Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    
     
   ],
   "profile": {
