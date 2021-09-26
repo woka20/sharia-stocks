@@ -95,7 +95,557 @@
       "syariah": "true",
       "logo": "None"
       
-    }
+    },
+     {
+      "id": 13,
+      "codeName": "AKRA",
+      "companyName": "AKR Corporindo Tbk.",
+      "syariah": "true",
+      "logo": "https://storage.googleapis.com/finansialku_media/wordpress_media/2020/11/351dd6fd-analisa-saham_-kinerja-dan-prospek-akra-pt-akr-corporindo-tbk.-01.jpg"
+      
+    },
+    {
+      "id": 14,
+      "codeName": "AKSI",
+      "companyName": "Maming Enam Sembilan Mineral Tbk.",
+      "syariah": "true",
+      "logo": "http://www.mesmineral.co.id/images/mesmineral_db/cp_images/532x670.jpg"
+    },
+     {
+      "id": 15,
+      "codeName": "ALDO",
+      "companyName": "Alkindo Naratama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 16,
+      "codeName": "ALKA",
+      "companyName": "Alakasa Industrindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 17,
+      "codeName": "AMAN",
+      "companyName": "Makmur Berkah Amanda Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 18,
+      "codeName": "AMIN",
+      "companyName": "	Ateliers Mecaniques D’Indonesie Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 19,
+      "codeName": "ANDI",
+      "companyName": "Andira Agro Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 20,
+      "codeName": "ANJT",
+      "companyName": "Austindo Nusantara Jaya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    
+     {
+      "id": 21,
+      "codeName": "ANTM",
+      "companyName": "Aneka Tambang Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    
+     {
+      "id": 22,
+      "codeName": "APII",
+      "companyName": "Arita Prima Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 23,
+      "codeName": "APLI",
+      "companyName": "Asiaplast Industries Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 24,
+      "codeName": "APLN",
+      "companyName": "Agung Podomoro Land Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 25,
+      "codeName": "ARII",
+      "companyName": "Atlas Resources Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 26,
+      "codeName": "ARMY",
+      "companyName": "Armidian Karyatama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 27,
+      "codeName": "ARNA",
+      "companyName": "Arwana Citramulia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 28,
+      "codeName": "ASGR",
+      "companyName": "Astra Graphia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 29,
+      "codeName": "ASRI",
+      "companyName": "Alam Sutera Realty Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 30,
+      "codeName": "ATAP",
+      "companyName": "Trimitra Prawara Goldland Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 31,
+      "codeName": "AUTO",
+      "companyName": "Astra Otoparts Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 32,
+      "codeName": "AYLS",
+      "companyName": "Agro Yasa Lestari Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 33,
+      "codeName": "BALI",
+      "companyName": "Bali Towerindo Sentra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 34,
+      "codeName": "BANK",
+      "companyName": "Bank Aladin Syariah Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 35,
+      "codeName": "BAPA",
+      "companyName": "Bekasi Asri Pemula Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 36,
+      "codeName": "BAPI",
+      "companyName": "Bhakti Agung Propertindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 37,
+      "codeName": "BATA",
+      "companyName": "Sepatu Bata Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 38,
+      "codeName": "BAYU",
+      "companyName": "Bayu Buana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 39,
+      "codeName": "BCIP",
+      "companyName": "Bumi Citra Permai Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 40,
+      "codeName": "BEBS",
+      "companyName": "Berkah Beton Sadaya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 41,
+      "codeName": "BELL",
+      "companyName": "Trisula Textile Industries Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 42,
+      "codeName": "BESS",
+      "companyName": "Batulicin Nusantara Maritim Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 43,
+      "codeName": "BEST",
+      "companyName": "Bekasi Fajar Industrial Estate Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 44,
+      "codeName": "BIKA",
+      "companyName": "Binakarya Jaya Abadi Tbk..",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 45,
+      "codeName": "BIPP",
+      "companyName": "Bhuwanatala Indah Permai Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 46,
+      "codeName": "BIRD",
+      "companyName": "Blue Bird Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 47,
+      "codeName": "BISI",
+      "companyName": "BISI International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 48,
+      "codeName": "BKSL",
+      "companyName": "Sentul City Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 49,
+      "codeName": "BLTA",
+      "companyName": "Berlian Laju Tanker Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 50,
+      "codeName": "BLTZ",
+      "companyName": "Graha Layar Prima Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 51,
+      "codeName": "BLUE",
+      "companyName": "Berkah Prima Perkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 52,
+      "codeName": "BMHS",
+      "companyName": "Bundamedik Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 53,
+      "codeName": "BMSR",
+      "companyName": "Bintang Mitra Semestaraya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 54,
+      "codeName": "BMTR",
+      "companyName": "Global Mediacom Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 55,
+      "codeName": "BOGA",
+      "companyName": "Bintang Oto Global Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 56,
+      "codeName": "BOLT",
+      "companyName": "Garuda Metalindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 57,
+      "codeName": "BOSS",
+      "companyName": "Borneo Olah Sarana Sukses Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 58,
+      "codeName": "BRAM",
+      "companyName": "Indo Kordsa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 59,
+      "codeName": "BRIS",
+      "companyName": "Bank Syariah Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 60,
+      "codeName": "BRMS",
+      "companyName": "Bumi Resources Minerals Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 61,
+      "codeName": "BRNA",
+      "companyName": "Berlina Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 62,
+      "codeName": "BRPT",
+      "companyName": "Barito Pacific Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 63,
+      "codeName": "BSSR",
+      "companyName": "Baramulti Suksessarana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 64,
+      "codeName": "BTON",
+      "companyName": "Betonjaya Manunggal Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 65,
+      "codeName": "BTPS",
+      "companyName": "Bank BTPN Syariah Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 66,
+      "codeName": "BUDI",
+      "companyName": "Budi Starch & Sweetener Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 67,
+      "codeName": "BUKA",
+      "companyName": "Bukalapak.com Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 68,
+      "codeName": "BUKK",
+      "companyName": "Bukaka Teknik Utama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 69,
+      "codeName": "BYAN",
+      "companyName": "Bayan Resources Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 70,
+      "codeName": "CAKK",
+      "companyName": "Cahayaputra Asa Keramik Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 71,
+      "codeName": "CAMP",
+      "companyName": "Campina Ice Cream Industry Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 72,
+      "codeName": "CANI",
+      "companyName": "Capitol Nusantara Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 73,
+      "codeName": "CBMF",
+      "companyName": "Cahaya Bintang Medan Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 74,
+      "codeName": "CCSI",
+      "companyName": "Communication Cable Systems Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 75,
+      "codeName": "CEKA",
+      "companyName": "Wilmar Cahaya Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 76,
+      "codeName": "CINT",
+      "companyName": "Chitose Internasional Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 77,
+      "codeName": "CITA",
+      "companyName": "Cita Mineral Investindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 78,
+      "codeName": "CITY",
+      "companyName": "Natura City Developments Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 79,
+      "codeName": "CLEO",
+      "companyName": "Sariguna Primatirta Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 80,
+      "codeName": "CLPI",
+      "companyName": "Colorpak Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 81,
+      "codeName": "CMNP",
+      "companyName": "Citra Marga Nusaphala Persada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 82,
+      "codeName": "COCO",
+      "companyName": "Wahana Interfood Nusantara Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 83,
+      "codeName": "CPIN",
+      "companyName": "Charoen Pokphand Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 84,
+      "codeName": "CSAP",
+      "companyName": "Catur Sentosa Adiprana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 85,
+      "codeName": "CSIS",
+      "companyName": "Cahayasakti Investindo Sukses Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 86,
+      "codeName": "CSMI",
+      "companyName": "Cipta Selera Murni Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 87,
+      "codeName": "CSRA",
+      "companyName": "Cisadane Sawit Raya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 88,
+      "codeName": "CTBN",
+      "companyName": "Citra Tubindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 89,
+      "codeName": "CTRA",
+      "companyName": "Ciputra Development Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 90,
+      "codeName": "DADA",
+      "companyName": "Diamond Citra Propertindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    
   ],
   "profile": {
     "name": "typicode"
