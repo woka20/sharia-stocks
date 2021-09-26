@@ -5,7 +5,7 @@
       "codeName": "AALI",
       "companyName": "Astra Agro Lestari Tbk.",
       "syariah": "true",
-      "logo": "https://id.wikipedia.org/wiki/Berkas:Astra-Agro.gif"
+      "logo": "https://www.agrofarm.co.id/wp-content/uploads/2020/12/Logo-AALI.jpg"
       
     },
      {
@@ -13,7 +13,7 @@
       "codeName": "ACES",
       "companyName": "Ace Hardware Indonesia Tbk.",
       "syariah": "true",
-      "logo": "https://id.wikipedia.org/wiki/Berkas:Ace_Hardware_Logo.svg"
+      "logo": "https://www.vibiznews.com/wp-content/uploads/2013/09/aces-1.jpg"
       
     },
      {
@@ -21,7 +21,7 @@
       "codeName": "ACST",
       "companyName": "Acset Indonusa Tbk.",
       "syariah": "true",
-      "logo": "None"
+      "logo": "https://www.acset.co/assets/image/logo_header/logo-acset.png"
       
     },
       {
@@ -29,7 +29,7 @@
       "codeName": "ADES",
       "companyName": "Akasha Wira International Tbk.",
       "syariah": "true",
-      "logo": "None"
+      "logo": "https://mainsaham.id/wp-content/uploads/2021/06/ADES.png"
       
     },
       {
@@ -37,7 +37,7 @@
       "codeName": "ADHI",
       "companyName": "Adhi Karya (Persero) Tbk.",
       "syariah": "true",
-      "logo": "None"
+      "logo": "https://images.bisnis-cdn.com/thumb/posts/2018/04/18/785642/adhi-karyajpeg.jpg?w=744&h=465"
       
     },
       {
@@ -45,7 +45,7 @@
       "codeName": "ADMG",
       "companyName": "Polychem Indonesia Tbk.",
       "syariah": "true",
-      "logo": "None"
+      "logo": "https://1.bp.blogspot.com/-Diy3qSIGXqc/XcDgfdmv9nI/AAAAAAAAPOY/StY1EkCQfIArVhvFzQ_YqAOJenTl5bqnACLcBGAsYHQ/s1600/POLYCHEM%2BINDONESIA%2BRAIH%2BPENJUALAN%2BBERSIH%2BUS%2524177%252C3%2BJUTA..jpg"
       
     },
        {
@@ -53,7 +53,7 @@
       "codeName": "ADRO",
       "companyName": "Adaro Energy Tbk.",
       "syariah": "true",
-      "logo": "None"
+      "logo": "https://www.semangatnews.com/wp-content/uploads/2021/07/adro.jpg"
       
     },
       {
@@ -2958,6 +2958,118 @@
       "syariah": "true",
       "logo": "None"
     },
+     {
+      "id": 421,
+      "codeName": "WAPO",
+      "companyName": "Wahana Pronatural Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 422,
+      "codeName": "WEGE",
+      "companyName": "Wijaya Karya Bangunan Gedung Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 423,
+      "codeName": "WEHA",
+      "companyName": "WEHA Transportasi Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 424,
+      "codeName": "WIKA",
+      "companyName": "Wijaya Karya (Persero) Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 425,
+      "codeName": "WINS",
+      "companyName": "Wintermar Offshore Marine Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 426,
+      "codeName": "WMUU",
+      "companyName": "Widodo Makmur Unggas Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 427,
+      "codeName": "WOOD",
+      "companyName": "Integra Indocabinet Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 428,
+      "codeName": "WTON",
+      "companyName": "Wijaya Karya Beton Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 429,
+      "codeName": "YELO",
+      "companyName": "	Yelooo Integra Datanet Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 430,
+      "codeName": "YPAS",
+      "companyName": "Yanaprima Hastapersada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 431,
+      "codeName": "ZBRA",
+      "companyName": "Zebra Nusantara Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 432,
+      "codeName": "ZINC",
+      "companyName": "Kapuas Prima Coal Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 433,
+      "codeName": "ZONE",
+      "companyName": "Mega Perintis Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    },
+     {
+      "id": 434,
+      "codeName": "ZYRX",
+      "companyName": "Zyrexindo Mandiri Buana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+      
+    }
     
   ],
   "profile": {
