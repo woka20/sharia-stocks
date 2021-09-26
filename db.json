@@ -2678,6 +2678,286 @@
       "syariah": "true",
       "logo": "None"
     },
+    {
+      "id": 381,
+      "codeName": "SWAT",
+      "companyName": "Sriwahana Adityakarta Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 382,
+      "codeName": "TAMA",
+      "companyName": "Lancartama Sejati Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 383,
+      "codeName": "TAMU",
+      "companyName": "Pelayaran Tamarin Samudra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 384,
+      "codeName": "TAPG",
+      "companyName": "Triputra Agro Persada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 385,
+      "codeName": "TARA",
+      "companyName": "Agung Semesta Sejahtera Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 386,
+      "codeName": "TBMS",
+      "companyName": "Tembaga Mulia Semanan Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 387,
+      "codeName": "TCID",
+      "companyName": "Mandom Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 388,
+      "codeName": "TCPI",
+      "companyName": "Transcoal Pacific Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 389,
+      "codeName": "TEBE",
+      "companyName": "Dana Brata Luhur Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 390,
+      "codeName": "TECH",
+      "companyName": "Indosterling Technomedia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 391,
+      "codeName": "TFAS",
+      "companyName": "Telefast Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 392,
+      "codeName": "TFCO",
+      "companyName": "Tifico Fiber Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 393,
+      "codeName": "TGKA",
+      "companyName": "Tigaraksa Satria Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 394,
+      "codeName": "TKIM",
+      "companyName": "Pabrik Kertas Tjiwi Kimia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 395,
+      "codeName": "TLKM",
+      "companyName": "Telkom Indonesia (Persero) Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 396,
+      "codeName": "TMPO",
+      "companyName": "Tempo Intimedia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 397,
+      "codeName": "TNCA",
+      "companyName": "Trimuda Nuansa Citra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 398,
+      "codeName": "TOPS",
+      "companyName": "Totalindo Eka Persada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 399,
+      "codeName": "TOTL",
+      "companyName": "Total Bangun Persada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 400,
+      "codeName": "TOTO",
+      "companyName": "Surya Toto Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 401,
+      "codeName": "TOYS",
+      "companyName": "Sunindo Adipersada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 402,
+      "codeName": "TPIA",
+      "companyName": "Chandra Asri Petrochemical Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 403,
+      "codeName": "TPMA",
+      "companyName": "Trans Power Marine Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 404,
+      "codeName": "TRIL",
+      "companyName": "Triwira Insanlestari Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 405,
+      "codeName": "TRIN",
+      "companyName": "Perintis Triniti Properti Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 406,
+      "codeName": "TRIS",
+      "companyName": "Trisula International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 407,
+      "codeName": "TRST",
+      "companyName": "Trias Sentosa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 408,
+      "codeName": "TRUE",
+      "companyName": "Triniti Dinamik Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 409,
+      "codeName": "TRUK",
+      "companyName": "Guna Timur Raya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 410,
+      "codeName": "TSPC",
+      "companyName": "Tempo Scan Pacific Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 411,
+      "codeName": "TURI",
+      "companyName": "Tunas Ridean Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 412,
+      "codeName": "UCID",
+      "companyName": "Uni-Charm Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 413,
+      "codeName": "UFOE",
+      "companyName": "Damai Sejahtera Abadi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 414,
+      "codeName": "ULTJ",
+      "companyName": "Ultra Jaya Milk Industry & Trading Company Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 415,
+      "codeName": "UNIC",
+      "companyName": "Unggul Indah Cahaya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 416,
+      "codeName": "UNIQ",
+      "companyName": "Ulima Nitra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 417,
+      "codeName": "UNTR",
+      "companyName": "United Tractors Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 418,
+      "codeName": "UNVR",
+      "companyName": "Unilever Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 419,
+      "codeName": "VICI",
+      "companyName": "Victoria Care Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 420,
+      "codeName": "VOKS",
+      "companyName": "Voksel Electric Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
     
   ],
   "profile": {
