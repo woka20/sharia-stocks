@@ -1066,7 +1066,847 @@
       "syariah": "true",
       "logo": "None"
     },
-    
+    {
+      "id": 151,
+      "codeName": "HERO",
+      "companyName": "Hero Supermarket Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 152,
+      "codeName": "HEXA",
+      "companyName": "Hexindo Adiperkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 153,
+      "codeName": "HKMU",
+      "companyName": "HK Metals Utama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 154,
+      "codeName": "HOKI",
+      "companyName": "Buyung Poetra Sembada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 155,
+      "codeName": "HOMI",
+      "companyName": "Grand House Mulia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 156,
+      "codeName": "HOPE",
+      "companyName": "Harapan Duta Pertiwi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 157,
+      "codeName": "HRME",
+      "companyName": "Menteng Heritage Realty Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 158,
+      "codeName": "HRTA",
+      "companyName": "Hartadinata Abadi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 159,
+      "codeName": "HRUM",
+      "companyName": "Harum Energy Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 160,
+      "codeName": "IATA",
+      "companyName": "Indonesia Transport & Infrastructure Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+ 
+    {
+      "id": 161,
+      "codeName": "ICBP",
+      "companyName": "Indofood CBP Sukses Makmur Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 162,
+      "codeName": "ICON",
+      "companyName": "Island Concepts Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 163,
+      "codeName": "IDPR",
+      "companyName": "Indonesia Pondasi Raya Tbk",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 164,
+      "codeName": "IFII",
+      "companyName": "Indonesia Fibreboard Industry Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 165,
+      "codeName": "IFSH",
+      "companyName": "Ifishdeco Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 166,
+      "codeName": "IGAR",
+      "companyName": "Champion Pacific Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 167,
+      "codeName": "IIKP",
+      "companyName": "Inti Agri Resources Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 168,
+      "codeName": "IKAI",
+      "companyName": "Intikeramik Alamasri Industri Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 169,
+      "codeName": "IKAN",
+      "companyName": "Era Mandiri Cemerlang Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 170,
+      "codeName": "IKBI",
+      "companyName": "Sumi Indo Kabel Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 171,
+      "codeName": "IMPC",
+      "companyName": "Impack Pratama Industri Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 172,
+      "codeName": "INAF",
+      "companyName": "Indofarma Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 173,
+      "codeName": "INCI",
+      "companyName": "Intanwijaya Internasional Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 174,
+      "codeName": "INCO",
+      "companyName": "Vale Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 175,
+      "codeName": "INDF",
+      "companyName": "Indofood Sukses Makmur Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 176,
+      "codeName": "INDR",
+      "companyName": "Indo-Rama Synthetics Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 177,
+      "codeName": "INDS",
+      "companyName": "Indospring Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 178,
+      "codeName": "INDX",
+      "companyName": "Tanah Laut Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 179,
+      "codeName": "INKP",
+      "companyName": "Indah Kiat Pulp & Paper Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 180,
+      "codeName": "INPS",
+      "companyName": "Indah Prakasa Sentosa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 181,
+      "codeName": "INTD",
+      "companyName": "Inter Delta Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 182,
+      "codeName": "INTP",
+      "companyName": "Indocement Tunggal Prakarsa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 183,
+      "codeName": "IPCC",
+      "companyName": "Indonesia Kendaraan Terminal Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 184,
+      "codeName": "IPCM",
+      "companyName": "Jasa Armada Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 185,
+      "codeName": "IPOL",
+      "companyName": "Indopoly Swakarsa Industry Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 186,
+      "codeName": "IPTV",
+      "companyName": "MNC Vision Networks Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 187,
+      "codeName": "IRRA",
+      "companyName": "Itama Ranoraya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 188,
+      "codeName": "ISAT",
+      "companyName": "Indosat Tbk..",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 189,
+      "codeName": "ISSP",
+      "companyName": "Steel Pipe Industry of Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 190,
+      "codeName": "ITMA",
+      "companyName": "Sumber Energi Andalan Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 191,
+      "codeName": "ITMG",
+      "companyName": "Indo Tambangraya Megah Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 192,
+      "codeName": "JAST",
+      "companyName": "Jasnita Telekomindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 193,
+      "codeName": "JAYA",
+      "companyName": "Armada Berjaya Trans Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 194,
+      "codeName": "JECC",
+      "companyName": "Jembo Cable Company Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 195,
+      "codeName": "JGLE",
+      "companyName": "Graha Andrasenta Propertindo Tbk",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 196,
+      "codeName": "JIHD",
+      "companyName": "Jakarta International Hotels & Development Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 197,
+      "codeName": "JKON",
+      "companyName": "Jaya Konstruksi Manggala Pratama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 198,
+      "codeName": "JMAS",
+      "companyName": "Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 199,
+      "codeName": "JPFA",
+      "companyName": "Japfa Comfeed Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 200,
+      "codeName": "JRPT",
+      "companyName": "Jaya Real Property Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 201,
+      "codeName": "JSKY",
+      "companyName": "Sky Energy Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 202,
+      "codeName": "JSPT",
+      "companyName": "Jakarta Setiabudi Internasional Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 203,
+      "codeName": "JTPE",
+      "companyName": "Jasuindo Tiga Perkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 204,
+      "codeName": "KAEF",
+      "companyName": "Kimia Farma Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 205,
+      "codeName": "KARW",
+      "companyName": "ICTSI Jasa Prima Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 206,
+      "codeName": "KAYU",
+      "companyName": "Darmi Bersaudara Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 207,
+      "codeName": "KBLI",
+      "companyName": "KMI Wire & Cable Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 208,
+      "codeName": "KBLM",
+      "companyName": "Kabelindo Murni Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 209,
+      "codeName": "KDSI",
+      "companyName": "Kedawung Setia Industrial Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 210,
+      "codeName": "KEEN",
+      "companyName": "Kencana Energi Lestari Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 211,
+      "codeName": "KEJU",
+      "companyName": "Mulia Boga Raya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 212,
+      "codeName": "KIAS",
+      "companyName": "Keramika Indonesia Assosiasi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 213,
+      "codeName": "KICI",
+      "companyName": "Kedaung Indah Can Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 214,
+      "codeName": "KIJA",
+      "companyName": "Kawasan Industri Jababeka Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 215,
+      "codeName": "KINO",
+      "companyName": "Kino Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 216,
+      "codeName": "KIOS",
+      "companyName": "Kioson Komersial Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 217,
+      "codeName": "KKGI",
+      "companyName": "Resource Alam Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 218,
+      "codeName": "KLBF",
+      "companyName": "Kalbe Farma Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 219,
+      "codeName": "KMDS",
+      "companyName": "Kurniamitra Duta Sentosa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 220,
+      "codeName": "KOIN",
+      "companyName": "Kokoh Inti Arebama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 221,
+      "codeName": "KONI",
+      "companyName": "Perdana Bangun Pusaka Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 222,
+      "codeName": "KOPI",
+      "companyName": "Mitra Energi Persada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 223,
+      "codeName": "KPAS",
+      "companyName": "Cottonindo Ariesta Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 224,
+      "codeName": "KPIG",
+      "companyName": "MNC Land Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 225,
+      "codeName": "KREN",
+      "companyName": "Kresna Graha Investama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 226,
+      "codeName": "LABA",
+      "companyName": "Ladangbaja Murni Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 227,
+      "codeName": "LCGP",
+      "companyName": "Eureka Prima Jakarta Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 228,
+      "codeName": "LCKM",
+      "companyName": "LCK Global Kedaton Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 229,
+      "codeName": "LINK",
+      "companyName": "Link Net Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 230,
+      "codeName": "LION",
+      "companyName": "Lion Metal Works Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 231,
+      "codeName": "LMAS",
+      "companyName": "Limas Indonesia Makmur Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 232,
+      "codeName": "LMPI",
+      "companyName": "Langgeng Makmur Industri Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 233,
+      "codeName": "LMSH",
+      "companyName": "Lionmesh Prima Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 234,
+      "codeName": "LPCK",
+      "companyName": "Lippo Cikarang Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 235,
+      "codeName": "LPIN",
+      "companyName": "Multi Prima Sejahtera Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 236,
+      "codeName": "LPKR",
+      "companyName": "Lippo Karawaci Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 237,
+      "codeName": "LPPF",
+      "companyName": "Matahari Department Store Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 238,
+      "codeName": "LRNA",
+      "companyName": "Eka Sari Lorena Transport Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 239,
+      "codeName": "LSIP",
+      "companyName": "PP London Sumatra Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 240,
+      "codeName": "LTLS",
+      "companyName": "Lautan Luas Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 241,
+      "codeName": "LUCK",
+      "companyName": "Sentral Mitra Informatika Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 242,
+      "codeName": "MAIN",
+      "companyName": "Malindo Feedmill Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 243,
+      "codeName": "MAPA",
+      "companyName": "Map Aktif Adiperkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 244,
+      "codeName": "MAPB",
+      "companyName": "MAP Boga Adiperkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 245,
+      "codeName": "MAPI",
+      "companyName": "Mitra Adiperkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 246,
+      "codeName": "MARK",
+      "companyName": "Mark Dynamics Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 247,
+      "codeName": "MASA",
+      "companyName": "Multistrada Arah Sarana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 248,
+      "codeName": "MBAP",
+      "companyName": "Mitrabara Adiperdana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 249,
+      "codeName": "MBSS",
+      "companyName": "Mitrabahtera Segara Sejati Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 250,
+      "codeName": "MBTO",
+      "companyName": "Martina Berto Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 251,
+      "codeName": "MCAS",
+      "companyName": "M Cash Integrasi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 252,
+      "codeName": "MCOL",
+      "companyName": "Prima Andalan Mandiri Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 253,
+      "codeName": "MDKA",
+      "companyName": "Merdeka Copper Gold Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 254,
+      "codeName": "MDKI",
+      "companyName": "Emdeki Utama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 255,
+      "codeName": "MDLN",
+      "companyName": "Modernland Realty Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 256,
+      "codeName": "MERK",
+      "companyName": "Merck Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 257,
+      "codeName": "META",
+      "companyName": "Nusantara Infrastructure Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 258,
+      "codeName": "MGRO",
+      "companyName": "Mahkota Group Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 259,
+      "codeName": "MICE",
+      "companyName": "Multi Indocitra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 260,
+      "codeName": "MIDI",
+      "companyName": "Midi Utama Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 261,
+      "codeName": "MIKA",
+      "companyName": "Mitra Keluarga Karyasehat Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 262,
+      "codeName": "MINA",
+      "companyName": "Sanurhasta Mitra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 263,
+      "codeName": "MIRA",
+      "companyName": "Mitra International Resources Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 264,
+      "codeName": "MITI",
+      "companyName": "Mitra Investindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 265,
+      "codeName": "MKNT",
+      "companyName": "Mitra Komunikasi Nusantara Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 266,
+      "codeName": "MKPI",
+      "companyName": "Metropolitan Kentjana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 267,
+      "codeName": "MLIA",
+      "companyName": "Mulia Industrindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 268,
+      "codeName": "MLPL",
+      "companyName": "Multipolar Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 269,
+      "codeName": "MLPT",
+      "companyName": "Multipolar Technology Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+    {
+      "id": 270,
+      "codeName": "MNCN",
+      "companyName": "Media Nusantara Citra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
     
   ],
   "profile": {
