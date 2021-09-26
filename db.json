@@ -2118,6 +2118,566 @@
       "syariah": "true",
       "logo": "None"
     },
+     {
+      "id": 301,
+      "codeName": "PGAS",
+      "companyName": "Perusahaan Gas Negara Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 302,
+      "codeName": "PGLI",
+      "companyName": "Pembangunan Graha Lestari Indah Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 303,
+      "codeName": "PJAA",
+      "companyName": "Pembangunan Jaya Ancol Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 304,
+      "codeName": "PKPK",
+      "companyName": "Perdana Karya Perkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 305,
+      "codeName": "PLIN",
+      "companyName": "Plaza Indonesia Realty Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 306,
+      "codeName": "PMJS",
+      "companyName": "Putra Mandiri Jembar Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 307,
+      "codeName": "PNBS",
+      "companyName": "Bank Panin Dubai Syariah Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 308,
+      "codeName": "POLU",
+      "companyName": "Golden Flower Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 309,
+      "codeName": "PORT",
+      "companyName": "Nusantara Pelabuhan Handal Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+     {
+      "id": 310,
+      "codeName": "POWR",
+      "companyName": "Cikarang Listrindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 311,
+      "codeName": "PPRE",
+      "companyName": "PP Presisi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 312,
+      "codeName": "PPRO",
+      "companyName": "PP Properti Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 313,
+      "codeName": "PRDA",
+      "companyName": "Prodia Widyahusada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 314,
+      "codeName": "PRIM",
+      "companyName": "Royal Prima Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 315,
+      "codeName": "PSKT",
+      "companyName": "Red Planet Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 316,
+      "codeName": "PSSI",
+      "companyName": "Pelita Samudera Shipping Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 317,
+      "codeName": "PTBA",
+      "companyName": "Bukit Asam Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 318,
+      "codeName": "PTDU",
+      "companyName": "Djasa Ubersakti Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 319,
+      "codeName": "PTPP",
+      "companyName": "PP (Persero) Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 320,
+      "codeName": "PTPW",
+      "companyName": "Pratama Widya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 321,
+      "codeName": "PTRO",
+      "companyName": "Petrosea Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 322,
+      "codeName": "PTSN",
+      "companyName": "Sat Nusapersada Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 323,
+      "codeName": "PTSP",
+      "companyName": "Pioneerindo Gourmet International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 324,
+      "codeName": "PUDP",
+      "companyName": "Pudjiadi Prestige Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 325,
+      "codeName": "PURA",
+      "companyName": "Putra Rajawali Kencana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 326,
+      "codeName": "PURI",
+      "companyName": "Puri Global Sukses Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 327,
+      "codeName": "PWON",
+      "companyName": "Pakuwon Jati Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 328,
+      "codeName": "PYFA",
+      "companyName": "Pyridam Farma Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 329,
+      "codeName": "PZZA",
+      "companyName": "Sarimelati Kencana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 330,
+      "codeName": "RAJA",
+      "companyName": "Rukun Raharja Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 331,
+      "codeName": "RALS",
+      "companyName": "Ramayana Lestari Sentosa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 332,
+      "codeName": "RANC",
+      "companyName": "Supra Boga Lestari Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 333,
+      "codeName": "RBMS",
+      "companyName": "Ristia Bintang Mahkotasejati Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 334,
+      "codeName": "REAL",
+      "companyName": "Repower Asia Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 335,
+      "codeName": "RIGS",
+      "companyName": "Rig Tenders Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 336,
+      "codeName": "RISE",
+      "companyName": "Jaya Sukses Makmur Sentosa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 337,
+      "codeName": "RODA",
+      "companyName": "Pikko Land Development Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 338,
+      "codeName": "ROTI",
+      "companyName": "Nippon Indosari Corpindo Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 339,
+      "codeName": "RSGK",
+      "companyName": "Kedoya Adyaraya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 340,
+      "codeName": "SAMF",
+      "companyName": "Saraswanti Anugerah Makmur Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 341,
+      "codeName": "SAPX",
+      "companyName": "Satria Antaran Prima Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 342,
+      "codeName": "SBMA",
+      "companyName": "Surya Biru Murni Acetylene Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 343,
+      "codeName": "SCCO",
+      "companyName": "Supreme Cable Manufacturing & Commerce Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 344,
+      "codeName": "SCMA",
+      "companyName": "Surya Citra Media Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 345,
+      "codeName": "SCNP",
+      "companyName": "Selaras Citra Nusantara Perkasa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 346,
+      "codeName": "SCPI",
+      "companyName": "Organon Pharma Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 347,
+      "codeName": "SDPC",
+      "companyName": "Millennium Pharmacon International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 348,
+      "codeName": "SGER",
+      "companyName": "Sumber Global Energy Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 349,
+      "codeName": "SGRO",
+      "companyName": "Sampoerna Agro Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+      {
+      "id": 350,
+      "codeName": "SHID",
+      "companyName": "Hotel Sahid Jaya International Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 351,
+      "codeName": "SHIP",
+      "companyName": "Sillo Maritime Perdana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 352,
+      "codeName": "SIDO",
+      "companyName": "Industri Jamu dan Farmasi Sido Muncul Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 353,
+      "codeName": "SILO",
+      "companyName": "Siloam International Hospitals Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 354,
+      "codeName": "SIMP",
+      "companyName": "Salim Ivomas Pratama Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 355,
+      "codeName": "SINI",
+      "companyName": "Singaraja Putra Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 356,
+      "codeName": "SIPD",
+      "companyName": "Sreeya Sewu Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 357,
+      "codeName": "SKBM",
+      "companyName": "Sekar Bumi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 358,
+      "codeName": "SKLT",
+      "companyName": "Sekar Laut Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 359,
+      "codeName": "SLIS",
+      "companyName": "Gaya Abadi Sempurna Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 360,
+      "codeName": "SMBR",
+      "companyName": "Semen Baturaja (Persero) Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 361,
+      "codeName": "SMCB",
+      "companyName": "Solusi Bangun Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 362,
+      "codeName": "SMDM",
+      "companyName": "Suryamas Dutamakmur Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 363,
+      "codeName": "SMDR",
+      "companyName": "Samudera Indonesia Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 364,
+      "codeName": "SMGR",
+      "companyName": "Semen Indonesia (Persero) Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 365,
+      "codeName": "SMKL",
+      "companyName": "Satyamitra Kemas Lestari Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 366,
+      "codeName": "SMMT",
+      "companyName": "Golden Eagle Energy Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 367,
+      "codeName": "SMRA",
+      "companyName": "Summarecon Agung Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 368,
+      "codeName": "SMSM",
+      "companyName": "Selamat Sempurna Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 369,
+      "codeName": "SNLK",
+      "companyName": "Sunter Lakeside Hotel Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+       {
+      "id": 370,
+      "codeName": "SOHO",
+      "companyName": "Soho Global Health Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 371,
+      "codeName": "SONA",
+      "companyName": "Sona Topas Tourism Industry Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 372,
+      "codeName": "SOSS",
+      "companyName": "Shield on Service Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 373,
+      "codeName": "SOTS",
+      "companyName": "Satria Mega Kencana Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 374,
+      "codeName": "SPMA",
+      "companyName": "Suparma Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 375,
+      "codeName": "SPTO",
+      "companyName": "Surya Pertiwi Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 376,
+      "codeName": "SRAJ",
+      "companyName": "Sejahteraraya Anugrahjaya Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 377,
+      "codeName": "SSIA",
+      "companyName": "Surya Semesta Internusa Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 378,
+      "codeName": "SSTM",
+      "companyName": "Sunson Textile Manufacturer Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 379,
+      "codeName": "STTP",
+      "companyName": "Siantar Top Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
+        {
+      "id": 380,
+      "codeName": "SURE",
+      "companyName": "Super Energy Tbk.",
+      "syariah": "true",
+      "logo": "None"
+    },
     
   ],
   "profile": {
